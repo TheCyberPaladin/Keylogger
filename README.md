@@ -1,7 +1,7 @@
 # Invisible Keylogger in C
 This Keylogger with attached Script for installation is designed to silently run in the background of a PC and later upload all the collected files in a designed FTP folder.
 
-#  DISCLAMINER
+#  DISCLAIMER
 ![]You should not use this Keylogger to spy other person, this is a crime and you might be persecuted. This demo was developed for research puprose only in a collaboration project between Grenoble University, Roma Tre University and Università di Padova.
 
 Structure:
